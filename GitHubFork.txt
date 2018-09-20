@@ -1,6 +1,18 @@
 Como Forkar(Fork) um projeto no GitHub
 1 - Encontrar no GitHub um projeto e fazer um Fork
+<<<<<<< HEAD
 2 - Fazer no GitBash o comando git clone + link no diretório do seu pc onde quiser 
 3 - Abrir os arquivos em um editor de texto e fazer as alterações desejadas
 4 - Git add . + git commit -m ou git commit -am "Comentários"
 5 - Fazer o envio das mudanças para seu For com o comando > git push origin master
+=======
+2 - Fazer no GitBash o comando git clone + link no diretÃ³rio do seu pc onde quiser 
+3 - Abrir os arquivos em um editor de texto e fazer as alteraÃ§Ãµes desejadas
+4 - Git add . + git commit -m ou git commit -am "ComentÃ¡rios"
+5 - Fazer o envio das mudanÃ§as para seu For com o comando > git push origin master
+
+
+6 - Eu atualizei o meu vendo esses links:
+https://help.github.com/articles/syncing-a-fork/
+https://help.github.com/articles/configuring-a-remote-for-a-fork/
+>>>>>>> upstream/master
